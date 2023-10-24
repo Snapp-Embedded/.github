@@ -1,12 +1,5 @@
-## Hi there 👋
+## Snapp Embedded 👋
+Snapp Embedded is the one-stop shop for running Flutter apps on embedded devices. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## We love Flutter
+We're all about Flutter, and we've got everything you need to create stunning Flutter UIs for embedded system, no matter the scale.

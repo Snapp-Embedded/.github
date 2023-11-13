@@ -1,6 +1,6 @@
 ## Snapp Embedded 👋
 
-Snapp Embedded is your a solution for running Flutter apps on embedded devices. Furthermore, we create tools to streamline the process, ensuring effortless deployment on a variety of hardware configurations.
+Snapp Embedded is your one-stop shop for running Flutter apps on embedded devices. We create tools to streamline the process, ensuring effortless deployment on a variety of hardware configurations.
 
 <p align="left">
 <img src="https://github.com/Snapp-Embedded/.github/assets/47558577/0fe761b2-dbc1-46e7-9243-2496453d052c" width="100%" alt="Styles" />

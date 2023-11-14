@@ -12,8 +12,9 @@ We're all about Flutter, and we share our knowledge, experience and resources to
 #### Try Snapp Embedded Projects! 🧪
 
 ##### Tools
+- 🧰 [Snapp Cli](https://github.com/Snapp-Embedded/snapp_cli "Snapp Cli"): a Dart command-line tool, simplifies adding custom devices to Flutter SDK. It configures and runs Flutter apps on non-standard devices like Raspberry Pi, maintaining features such as hot reload and hot restart.
 - 🛠️ [Snapp Installer](https://github.com/Snapp-Embedded/snapp_installer "Snapp Installer"): A CLI tool streamlining Flutter installation and app development on Raspberry Pi, with support for kiosk mode.
-- 🐞 [Snapp Debugger](https://github.com/Snapp-Embedded/snapp_debugger "Snapp Debugger"): a Dart command-line tool, simplifies adding custom devices to Flutter SDK. It configures and runs Flutter apps on non-standard devices like Raspberry Pi, maintaining features such as hot reload and hot restart.
+
 
 ##### Examples
 - 📟 [Google Home](https://github.com/Snapp-Embedded/google_home "Google Home"): google_home is a Flutter app illustrating the seamless performance of Flutter on Linux and Raspberry Pi, highlighting its cross-platform development capabilities, and utilizing Rive for animations.
